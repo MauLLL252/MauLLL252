@@ -39,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
 </div>
 
 ###
