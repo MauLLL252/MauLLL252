@@ -1,10 +1,5 @@
 <h4 data-importer="text" align="left">Hi, I'm Maulana Riski 👋<br><br>I'm a 5th-semester Information Systems student at Universitas Bina Sarana Informatika with a growing interest in Backend Development.<br><br>Currently learning Go (Golang) while exploring PHP, JavaScript, Frontend Development, UI/UX, and other technologies used in the software industry.<br><br>🎯 Aspiring Junior Backend Developer<br>💻 Learning • Building • Exploring<br>🚀 On my way to becoming a better Software Engineer.</h4>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=MauLLL252&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 
